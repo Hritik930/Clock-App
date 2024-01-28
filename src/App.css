@@ -1,0 +1,22 @@
+
+h1 b{
+    font-size: 50px;
+    background: #1c7fd0b9;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 10px;
+    color: rgb(5, 38, 67);
+}
+
+.clock-container{
+    padding: 10px;
+    background-color: rgb(144, 135, 123);
+    margin: 100px;
+}
+p{
+    font-size: 45;
+}
+h4 b{
+    color: rgb(2, 45, 41);
+    font-size: 40px;
+}
